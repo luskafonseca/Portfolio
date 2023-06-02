@@ -1,6 +1,6 @@
 <h1 align="center">Portifólio - Lucas Fonseca 💻</h1>
 
-![Imagem do projeto finalizado](/assets/images/projects/portfolio.png)
+![Imagem do projeto finalizado](./assets/images/projects/portfolio.png)
 
 <h4 align="center"><a href=" ">Confira o projeto aqui</a></h4>
 
