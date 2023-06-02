@@ -8,7 +8,7 @@ function projetos(section) {
           <h3>Burn Axnet</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/burn.png"
+              src="./assets/images/projects/burn.PNG"
               alt="imagem do projeto."
             />
             <div class="buttons">
