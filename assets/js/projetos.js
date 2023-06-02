@@ -12,7 +12,7 @@ function projetos(section) {
               alt="imagem do projeto."
             />
             <div class="buttons">
-              <a href="https://github.com/burn-axnet" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/luskafonseca/burn" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
