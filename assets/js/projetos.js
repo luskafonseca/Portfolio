@@ -91,7 +91,7 @@ function projetos(section) {
         <div class="card">
           <h3>Lucas Fonseca - Links</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/resumo.png" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/resumo.PNG" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com/luskafonseca/bio" target="_blank" title="Repositório no Github">
                 <svg
@@ -128,7 +128,7 @@ function projetos(section) {
         <div class="card">
           <h3>Dermaplastic</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/derma.png" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/derma.PNG" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com/luskafonseca/dermaplastic" target="_blank" title="Repositório no Github">
                 <svg
@@ -165,7 +165,7 @@ function projetos(section) {
         <div class="card">
           <h3>Teachable Machine</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/predicao.png" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/predicao.PNG" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com/luskafonseca/teachablemachine" target="_blank" title="Repositório no Github">
                 <svg
@@ -202,7 +202,7 @@ function projetos(section) {
         <div class="card">
           <h3>Meu Portifólio</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/portfolio.png" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/portfolio.PNG" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="meu link" target="_blank" title="Repositório no Github">
                 <svg
