@@ -44,7 +44,7 @@ function projetos(section) {
           <p>
             Plataforma desenvolvida para gerencimento da liga de games Burn Axnet.
           </p>
-          <p>HTML - CSS - JS - Jquery - Postgree</p>
+          <p>HTML - CSS - SpringBoot - Postgree</p>
         </div> 
         <div class="card">
           <h3>Desafio 21 dias de código</h3>
