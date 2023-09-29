@@ -239,7 +239,6 @@ function projetos(section) {
           </p>
           <p>HTML - CSS - JS</p>
         </div>
-        <div></div>
         <div class="card">
           <h3>Instituto Gourmet Alfenas</h3>
           <div class="img-wrapper">
