@@ -218,7 +218,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://igalfenas.com.br" target="_blank" title="Ver Projeto">
+              <a href="https://portfolio-luskafonseca.vercel.app/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -245,7 +245,7 @@ function projetos(section) {
             <img src="./assets/images/projects/ig.PNG" alt="Imagem do projeto." />
             <div class="buttons">
               </a>
-              <a href="link navercel" target="_blank" title="Ver Projeto">
+              <a href="https://igalfenas.com.br" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
