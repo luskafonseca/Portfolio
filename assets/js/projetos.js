@@ -265,7 +265,7 @@ function projetos(section) {
           </p>
           <p>HTML - CSS - JS</p>
         </div>
-        <div></div>
+        
         <div class="card">
           <h3>Em breve...</h3>
           <svg
