@@ -126,11 +126,11 @@ function projetos(section) {
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>Dermaplastic</h3>
+          <h3>Clinica Estética</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/derma.PNG" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/clinica.PNG" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/luskafonseca/dermaplastic" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/luskafonseca/clinica_estetica" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -144,7 +144,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://dermaplastic.vercel.app/" target="_blank" title="Ver Projeto">
+              <a href="clinica-estetica-ten.vercel.app" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -159,7 +159,7 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Página de contato para consultas desenvolvida para cliente.</p>
+          <p>Página de contato para consultas desenvolvida para treino.</p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
