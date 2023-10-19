@@ -1,6 +1,7 @@
 <h1 align="center">Portifólio - Lucas Fonseca 💻</h1>
 
-![Imagem do projeto finalizado](assets/images/projects/portfolio.PNG)
+![image](https://github.com/luskafonseca/Portfolio/assets/99623815/37bdc3bf-64e8-4bd0-ae00-bbf3b8e8d67f)
+
 
 <h4 align="center"><a href="https://portfolio-luskafonseca.vercel.app/">Confira o projeto aqui</a></h4>
 
