@@ -270,7 +270,7 @@ function projetos(section) {
  <div class="card">
           <h3>Comanda Online</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/comanda.PNG" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/comanda.png" alt="Imagem do projeto." />
             <div class="buttons">
               </a>
               <a href="http://www.reisespesto.byethost24.com" target="_blank" title="Ver Projeto">
