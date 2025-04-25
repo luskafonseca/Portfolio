@@ -345,7 +345,7 @@ function projetos(section) {
           <p>
            Site padrão pizzaria para testar habilidades
           </p>
-          <p>Wordpress</p>
+          <p>WORDPRESS</p>
         </div>
 
         
