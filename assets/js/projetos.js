@@ -294,6 +294,59 @@ function projetos(section) {
           <p>HTML - CSS - PHP</p>
         </div>
 
+<div class="card">
+          <h3>Nike clone</h3>
+          <div class="img-wrapper">
+            <img src="./assets/images/projects/nike.png" alt="Imagem do projeto." />
+            <div class="buttons">
+              </a>
+              <a href="https://clone-nike-coral.vercel.app/" target="_blank" title="Ver Projeto">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9C2.121 6.88 6.608 3 12 3zm0 16a9.005 9.005 0 0 0 8.777-7 9.005 9.005 0 0 0-17.554 0A9.005 9.005 0 0 0 12 19zm0-2.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0-2a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <p>
+           Site clone baseado na nike para testar habilidades.
+          </p>
+          <p>HTML - CSS - JAVASCRIPT</p>
+        </div>
+        
+ <div class="card">
+          <h3>Pizzaria in-loco</h3>
+          <div class="img-wrapper">
+            <img src="./assets/images/projects/pizzaria.png" alt="Imagem do projeto." />
+            <div class="buttons">
+              </a>
+              <a href="https://restaurantelf.free.nf" target="_blank" title="Ver Projeto">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9C2.121 6.88 6.608 3 12 3zm0 16a9.005 9.005 0 0 0 8.777-7 9.005 9.005 0 0 0-17.554 0A9.005 9.005 0 0 0 12 19zm0-2.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0-2a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <p>
+           Site padrão pizzaria para testar habilidades
+          </p>
+          <p>Wordpress</p>
+        </div>
 
         
         
